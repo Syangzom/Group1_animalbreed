@@ -1,3 +1,5 @@
 Flask==3.0.3
-tensorflow==2.17.0
-pillow==11.0.0
+Werkzeug 
+tensorflow==2.2.0 
+pillow==11.0.0     
+numpy                  
