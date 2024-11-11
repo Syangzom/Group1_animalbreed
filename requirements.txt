@@ -3,3 +3,4 @@ Werkzeug
 tensorflow==2.17.0 
 pillow==11.0.0     
 numpy                  
+gunicorn==20.1.0
